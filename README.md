@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jatinkkalra
 - 👀 I’m interested in blockchain and cryptocurrencies.
-- 🌱 I’m currently learning python, django, solidity and cosmwasm.
+- 🌱 I’m currently learning python, with django, solidity and cosmwasm next in line.
 - 💞️ I’m looking to collaborate on smart contract development after learning above skills.
 - 📫 How to reach me: @Jatinkkalra on Twitter and Telegram.
 
