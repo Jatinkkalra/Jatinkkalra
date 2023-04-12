@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jatinkkalra
 - 👀 I’m interested in blockchain and cryptocurrencies.
-- 🌱 I’m currently learning solidity (full stack using js) and likely cosmwasm is next in line.
+- 🌱 I’m currently learning solidity using js (full stack).
 - 💞️ I’m looking to collaborate on front-end plus smart contract development after finishing some demo projects.
 - 📫 How to reach me: @Jatinkkalra on Twitter and Telegram.
 
